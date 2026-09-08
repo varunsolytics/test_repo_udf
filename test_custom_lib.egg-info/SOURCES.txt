@@ -1,0 +1,7 @@
+setup.py
+test_custom_lib/__init__.py
+test_custom_lib/calculator.py
+test_custom_lib.egg-info/PKG-INFO
+test_custom_lib.egg-info/SOURCES.txt
+test_custom_lib.egg-info/dependency_links.txt
+test_custom_lib.egg-info/top_level.txt
